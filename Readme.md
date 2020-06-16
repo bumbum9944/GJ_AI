@@ -10,5 +10,5 @@
 * [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/bumbum9944/GJ_AI/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 * [위의 파일이 열리지 않는다면 이 링크를 사용하세요](https://nbviewer.jupyter.org/github/bumbum9944/GJ_AI/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 ## 4주차 과제(2020.06.17)
-* 딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/bumbum9944/GJ_AI/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+* [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/bumbum9944/GJ_AI/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 * [위의 파일이 열리지 않는다면 이 링크를 사용하세요](https://nbviewer.jupyter.org/github/bumbum9944/GJ_AI/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
